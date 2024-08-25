@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 2
   m_EditorClassIdentifier: 
   question: "Vilket \xE5r dog Adolf Hitler?"
+  answers:
+  - 1938
+  - 1945
+  - 1950
+  - 1925
+  correctAnswerIndex: 1

@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 5
   m_EditorClassIdentifier: 
   question: I vilket land ligger staden Monaco?
+  answers:
+  - Monaco
+  - Italien
+  - Frankrike
+  - Wien
+  correctAnswerIndex: 0

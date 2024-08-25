@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 4
   m_EditorClassIdentifier: 
   question: "Hur gammal \xE4r Zlatan?"
+  answers:
+  - 30
+  - 50
+  - 45
+  - 42
+  correctAnswerIndex: 3

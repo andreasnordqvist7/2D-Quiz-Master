@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 1
   m_EditorClassIdentifier: 
   question: Vad heter Sveriges nordligaste stad?
+  answers:
+  - Sundsvall
+  - Haparanda
+  - "G\xE4llivare"
+  - Kiruna
+  correctAnswerIndex: 3
